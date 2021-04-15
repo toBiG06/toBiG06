@@ -16,6 +16,9 @@ Code Scanning Tools (static analysis):
 Codeverity (SDLC integration) scans Java, C/C++, C#, JavaScript, Ruby, or Python 
 https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html
 
+CodeDx (CI integration)
+https://codedx.com/
+
 Free scans for open-source github
 https://scan.coverity.com/github
 
